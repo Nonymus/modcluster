@@ -9,8 +9,7 @@ run `build`
 ## Start
 
 run `start.sh`
-Open `http://localhost:8888/mcm` in Browser
-Start some wildfly nodes, e.g.
+Open `http://localhost:8888/mcm` in Browser. Start some wildfly nodes, e.g.
         
         docker run -d --name node1 nonymus/wildfly
         docker run -d --name node2 nonymus/wildfly
