@@ -2,12 +2,12 @@ Modcluster Demo
 ===============
 You'll also need nonymus/wildfly docker image
 
-Build
-=====
+# Build
+
 run `build`
 
-Start
-=====
+# Start
+
 run `start.sh`
 Open `http://localhost:8888/mcm` in Browser
 Start some wildfly nodes, e.g.
